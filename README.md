@@ -76,3 +76,5 @@ void Affichagecomp2(composant comp2){
 }
 }
 ```
+## Note
+J'ai pas fais les autres questions du a des difficultes rencontre dans l'implementation je veux bien que tu m'aide a les resoudre durant la seance.
